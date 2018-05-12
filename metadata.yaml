@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9862'
     url: http://www.gutenberg.org/2009/agents/9862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22211#Gilian-The-DreamerHis-Fancy-His-Love-and-Adventure
 gutenberg_issued: '2007-08-01'
 gutenberg_type: Text
 identifiers:
